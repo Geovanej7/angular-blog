@@ -8,12 +8,13 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class BigCardComponent implements OnInit {
   @Input()
-  photoCover:string = "https://portal.ciee.org.br/wp-content/uploads/2024/01/O-que-esperar-da-IA-em-2024.jpg"
+  photoCover:string = ""
   @Input()
-  carTitle:string= "Nova AI no mercado!"
+  carTitle:string= ""
   @Input()
-  cardDescription:string= "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Fusce egestas, ipsum in viverra tristique, nisi loremiaculis nisl, nec mattis eros felis sit amet lectus."
-
+  cardDescription:string= ""
+  @Input()
+  Id:string= "0"
   constructor(){}
 
   ngOnInit(): void {
