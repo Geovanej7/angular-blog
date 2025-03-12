@@ -8,6 +8,7 @@
 }
 
 .small-card__photo > img{
+    border: 4px solid grey;
     width: 300px;
     min-width: 200px;
     margin-right: 20px;
