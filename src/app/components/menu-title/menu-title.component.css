@@ -19,14 +19,3 @@
     color: rgba(255, 255, 255, 0.384);
 }
 
-.container__menu-title__span{
-    max-width: 150vh;
-    padding-bottom: 10px;
-    display: flex;
-    justify-content: end;
-}
-
-.container__menu-title__span >span && .container__menu-title__span >a{
-    padding-left: 100px;
-    color: rgba(238, 17, 17, 0.993);
-}
