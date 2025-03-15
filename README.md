@@ -18,6 +18,6 @@ Este é um projeto Angular desenvolvido com base nos ensinamentos do professor F
 - Interface responsiva para melhor experiência em dispositivos móveis
 - Comentários e feedbacks para interação dos visitantes
   
-
-#### Feito com ❤️ por Geovane junior.
+---
+#### Feito com ❤️.
 
